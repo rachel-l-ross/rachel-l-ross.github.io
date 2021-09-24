@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachel Ross, Health Policy PhD Student"
+title                    : "Rachel Ross"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+  #username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rachel Lauren Ross"
   avatar           : "profile_640x640.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Health Policy PhD Student, Organizations & Management Concentration"
+  location         : "University of California, Berkeley"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/rachel-l-ross"
   google_plus      :
   keybase          :
   instagram        :
