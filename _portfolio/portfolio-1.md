@@ -4,4 +4,6 @@ excerpt: "My first project using GitHub involved practicing collaboration with m
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My first project using GitHub involved practicing collaboration with my teammates. Together, we learned how to create repositories, checkout new branches, make changes to existing shared code documents, and manage pull requests. 
+
+A second part of the assignment involved creating this website. I'll plan to continue to build this out over the course of the next few weeks, but this introduction has been helpful!
