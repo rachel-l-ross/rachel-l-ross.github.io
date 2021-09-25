@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachel Ross"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rachel Lauren Ross"
+  name             : "Rachel L. Ross, MPH"
   avatar           : "profile_640x640.jpeg"
   bio              : "Health Policy PhD Student, Organizations & Management Concentration"
   location         : "University of California, Berkeley"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/rachellaurenross"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
